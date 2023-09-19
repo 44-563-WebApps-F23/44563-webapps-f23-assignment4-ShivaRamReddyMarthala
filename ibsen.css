@@ -2,7 +2,7 @@
     font: 100; 
     font-family: 'Courier New', Courier, monospace;
     color:black;
-    font-size: medium;    
+    font-size: large;    
 }
 .direction{
     font: 150;
@@ -22,20 +22,20 @@
     background-color:darkcyan;
 }
 .mrs.alving{
-    
-    color:blueviolet;
+color:blueviolet;
+
 }
 .regina{
-    
-    color:chocolate;
+color:chocolate;
+
 }
 .manders{
-    
-    color:red;
+color:red;
+
 }
 .engstrand{
-    
-    color:chartreuse;
+color:chartreuse;
+
 }
 
 table{
@@ -48,6 +48,6 @@ table{
 }
 
 tr:nth-child(odd){
-    color:green;
+color:green;
 }
 
