@@ -17,7 +17,7 @@
 
 
 }
-.direction.hover{
+.direction:hover{
     color: azure;
     background-color:darkcyan;
 }
@@ -47,7 +47,7 @@ table{
     
 }
 
-tr:nth_child(odd){
+tr:nth-child(odd){
     color:blue;
 }
 
