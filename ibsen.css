@@ -21,19 +21,19 @@
     color: azure;
     background-color:darkcyan;
 }
-.mrs.alving{
+.MRS.ALVING{
     
     color:blueviolet;
 }
-.regina{
+.REGINA{
     
     color:chocolate;
 }
-.manders{
+.MANDERS{
     
-    color:blue;
+    color:red;
 }
-.engstrand{
+.ENGSTRAND{
     
     color:chartreuse;
 }
@@ -48,6 +48,6 @@ table{
 }
 
 tr:nth-child(odd){
-    color:blue;
+    color:green;
 }
 
