@@ -7,7 +7,7 @@
 .direction{
     font: 150;
     font-size: medium;
-    color: black;
+    color:blue;
     background-color:antiquewhite;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -21,19 +21,19 @@
     color: azure;
     background-color:darkcyan;
 }
-.MRS.ALVING{
+.mrs.alving{
     
     color:blueviolet;
 }
-.REGINA{
+.regina{
     
     color:chocolate;
 }
-.MANDERS{
+.manders{
     
     color:red;
 }
-.ENGSTRAND{
+.engstrand{
     
     color:chartreuse;
 }
