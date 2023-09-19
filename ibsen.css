@@ -14,8 +14,6 @@
 .name:hover{
     color:aliceblue;
     text-shadow: 2px 3px 4px green;
-
-
 }
 .direction:hover{
     color: azure;
@@ -42,12 +40,12 @@ table{
     border:2cm solid goldenrod;
     color:bisque;
     text-align: end;
-    padding: 4cm;
-    margin: 5px;
+    padding: 2cm;
+    margin: 4px;
     
 }
 
 tr:nth-child(odd){
-color:green;
+background-color:grey;
 }
 
