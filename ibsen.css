@@ -22,28 +22,28 @@
     background-color:darkcyan;
 }
 .mrs.alving{
-    font-style:initial;
+    
     color:blueviolet;
 }
 .regina{
-    font-style:initial ;
+    
     color:chocolate;
 }
 .manders{
-    font-style: initial;
+    
     color:blue;
 }
 .engstrand{
-    font-style:initial;
+    
     color:chartreuse;
 }
 
 table{
     border:2cm solid goldenrod;
     color:bisque;
-    text-align:end;
-    padding:3cm;
-    margin:4px;
+    text-align: end;
+    padding: 4cm;
+    margin: 5px;
     
 }
 
