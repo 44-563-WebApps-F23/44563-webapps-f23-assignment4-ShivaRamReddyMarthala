@@ -2,43 +2,32 @@
     font: 100; 
     font-family:'Courier New', Courier, monospace;
     color: black;
-    font-size: medium;
-    
+    font-size: medium;    
 }
-
 .direction{
     font: 100;
     font-size: large;
     color: black;
-    background-color:blueviolet;
-
+    background-color:antiquewhite;
 }
 .name{
-
-
 }
-
 .direction.hover{
     color: azure;
-    background-color: black;
+    background-color:darkcyan;
 }
-
 .MRS.ALVING{
     font-style:initial;
     color:blanchedalmond;
-
 }
-
 .REGINA{
     font-style:initial ;
     color:blanchedalmond;
 }
-
 .MANDERS{
     font-style: initial;
     color:blanchedalmond;
 }
-
 .NGSTRAND{
     font-style:initial;
     color:blanchedalmond;
