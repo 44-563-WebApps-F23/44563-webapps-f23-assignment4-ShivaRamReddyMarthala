@@ -1,35 +1,52 @@
 .speech{
     font: 100; 
-    font-family:'Courier New', Courier, monospace;
-    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    color:black;
     font-size: medium;    
 }
 .direction{
-    font: 100;
-    font-size: large;
+    font: 150;
+    font-size: medium;
     color: black;
     background-color:antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-.name{
+.name:hover{
+    color:aliceblue;
+    text-shadow: 2px 3px 4px green;
+
+
 }
 .direction.hover{
     color: azure;
     background-color:darkcyan;
 }
-.MRS.ALVING{
+.mrs.alving{
     font-style:initial;
-    color:blanchedalmond;
+    color:blueviolet;
 }
-.REGINA{
+.regina{
     font-style:initial ;
-    color:blanchedalmond;
+    color:chocolate;
 }
-.MANDERS{
+.manders{
     font-style: initial;
-    color:blanchedalmond;
+    color:aquamarine;
 }
-.NGSTRAND{
+.engstrand{
     font-style:initial;
-    color:blanchedalmond;
+    color:aqua;
+}
+
+table{
+    border:2cm solid goldenrod;
+    color:bisque;
+    text-align:end;
+    padding:3cm;
+    margin:auto;
+}
+
+tr:nth_child(odd){
+    color:blue;
 }
 
