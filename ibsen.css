@@ -37,11 +37,11 @@ color:chartreuse;
 }
 
 table{
-    border:2cm solid goldenrod;
+    border:collapse goldenrod;
     color:bisque;
     text-align: end;
-    padding: 2cm;
-    margin: 4px;
+    padding: 6cm;
+    margin: 10px;
     
 }
 
@@ -71,9 +71,4 @@ background-color:grey;
 
 .navbar a:hover {
     background-color:aquamarine ; 
-}
-.image{
-width: auto;
-height: fit-content;
-
 }
