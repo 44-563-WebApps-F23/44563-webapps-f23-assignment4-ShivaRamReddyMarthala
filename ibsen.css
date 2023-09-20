@@ -72,3 +72,8 @@ background-color:grey;
 .navbar a:hover {
     background-color:aquamarine ; 
 }
+.image{
+width: auto;
+height: fit-content;
+
+}
