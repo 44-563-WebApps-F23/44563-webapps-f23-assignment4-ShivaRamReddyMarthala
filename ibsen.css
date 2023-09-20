@@ -84,3 +84,16 @@ ul.navbar-horizontal{
 .navbar a:hover {
     background-color:aquamarine ; 
 }
+
+ul.navbar-horizontal{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    }
+    ul.navbar-horizontal li{
+        color:rgb(231, 222, 222);
+        background-color: whitesmoke;
+    }
+    ul.navbar-horizontal a{
+        display:block;
+        }
