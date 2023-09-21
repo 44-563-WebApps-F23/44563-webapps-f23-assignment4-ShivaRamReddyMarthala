@@ -23,36 +23,26 @@
 }
 .mrs.alving{
 color:blueviolet;
-
 }
 .regina{
 color:black;
-
 }
 .manders{
 color:black;
-
 }
 .engstrand{
 color:black;
-
 }
-
 table{
     border:2cm collapse;
     color:bisque;
     text-align: end;
     padding: 2cm;
-    margin: 4px;
-    
+    margin: 3px;   
 }
-
 tr:nth-child(odd){
 background-color:grey;
 }
-
-
-
 .navbar {
     position: fixed;
     bottom: 0;
@@ -63,19 +53,17 @@ background-color:grey;
     justify-content: space-around;
     padding: 10px;
 }
-
 .navbar a {
-    color: white; 
+    color: greenyellow; 
     text-decoration: none;
     font-size: 18px;
-    padding: 5px 15px;
+    padding: 5px 10px;
 }
-
 .navbar a:hover {
     background-color:aquamarine ; 
 }
 .image{
-width: 20px;;
-height: 30px;
+width: 10px;;
+height: 20px;
 
 }
